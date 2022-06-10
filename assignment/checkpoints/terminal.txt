@@ -16,19 +16,19 @@ To go up a folder you use the command cd . .
 
 # 4 - What is a quick way to create a new folder?
 
-
+mkdir
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
 
-
+With an empty folder you could expect to see you inside the folder but there will be nothing listed. When the folder has items in it once you hit ls you will see all the files inside listed.
 
 # 6 - What is a quick way to create a new file?
 
-
+git add 
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 
-
+git version 2.15.0 
 
 # 8 - Why would you run the command 'git status'?
 
