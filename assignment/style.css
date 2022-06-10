@@ -4,18 +4,23 @@ body{
 }
 /* Make the header and footer a different color from the background */
 header{
-    color: brown;
+   background-color: brown;
 }
 
 footer{
-    color: rgb(16, 69, 116);
+    
+   background-color: rgb(16, 69, 116);
 }
 /* Align the h1 containing your name in the center of the header*/
 h1{
     text-align: center;
+
 }
 /* Make your p tag a different color and italic */
-
+p {
+    font-style: italic;
+    color: aliceblue;
+}
 /* Put a border around your image */
 img{
     height: 10cm;
@@ -23,3 +28,8 @@ img{
     border: 5px solid;
 }
 /* Change the font-family of your list */
+
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
